@@ -1,0 +1,48 @@
+body {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 30px;
+    background-color:rgb(233, 235, 236)
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    text-align: center;
+    padding: 20px; 
+}
+
+#tribute-info {
+    padding: 15px;
+    font-weight: bold;
+}
+
+#img-div {
+    background-color: rgba(201, 201, 201, 0.904);
+    padding: 15px; 
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.5;
+    font-size: 20px;
+    display: table;
+}
+
+#quote {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 60px;
+}
+
+footer {
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: white;
+}
